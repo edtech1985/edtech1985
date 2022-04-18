@@ -11,17 +11,25 @@
 - 👀 I’m interested in JS, HTML, CSS, React, React Native, SQL and MongoDB.
 - 🌱 I’m currently learning JavaScript and React.
 
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" srcset="" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" srcset="" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" srcset="" />
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" srcset="" /> 
+</div>
+
 ### https://edtech85.github.io/portfolio/
 
+##
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edtech85&layout=compact&langs_count=16&theme=dracula" alt="Stats" height="180em" />
 </div>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edtech85&layout=compact&langs_count=16&theme=dracula" alt="Stats" height="180em" />
+##
 
-    <img src="https://raw.githubusercontent.com/edtech85/edtech85/main/gti.png" alt="social" height="180em">
-    
-</div>
+
 
 
