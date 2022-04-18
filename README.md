@@ -13,4 +13,8 @@
 
 ### https://edtech85.github.io/portfolio/
 
+<div>
+    <img src="https://git-hub-stats-vercel.app/api/top-langs/?username=edtech85&layout=compact&langs_count=16&theme=dracula" alt="Stats" height="180em" />
+</div>
+
 ![gti](https://user-images.githubusercontent.com/98822745/163703907-fe6f0726-dba1-466e-a05b-42c4671cea06.png)
