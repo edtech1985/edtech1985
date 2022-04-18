@@ -1,11 +1,17 @@
 - 👋 Hi, I’m @edtech85
-- 👀 I’m interested in JS, HTML, CSS, React, React Native, SQL and MongoDB.
-- 🌱 I’m currently learning JS and React.
 
-<!---
-edtech85/edtech85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bachelor in Business Administration with a degree in Foreign Trade completed in 2013. During the course I did internships in several areas such as logistics, administrative, financial and in some banks.
+
+Currently working as a Technical Support Analyst at LIT - Saint Paul.
+
+Fluent English with more than 2 years of experience living in New Zealand. Advanced Spanish. Previous employment as a Bilingual Compliance Ombudsman(English and Spanish).
+
+Experience in the clothing sector.
+
+Traditional financial market investor since 2015. Cryptocurrencies market investor since 2016.
+
+- 👀 I’m interested in JS, HTML, CSS, React, React Native, SQL and MongoDB.
+- 🌱 I’m currently learning JavaScript and React.
 
 ### https://edtech85.github.io/portfolio/
 
