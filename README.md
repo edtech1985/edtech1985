@@ -19,7 +19,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" srcset="" />
 </div>
 
-### https://edtech85.github.io/portfolio/
+### <a href="https://edtech85.github.io/portfolio/" target="_blank">Projeto Portfolio Page - 3 idiomas</a>
+
+#### <a href="https://edtech85.github.io/OGFLIX/" target="_blank">Projeto do curso HTML e CSS - Interface Netflix</a>
 
 ##
 
