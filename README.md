@@ -20,7 +20,7 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edtech85&layout=compact&langs_count=16&theme=dracula" alt="Stats" height="180em" />
 
-    <img src="https://github.com/edtech85/edtech85/blob/main/gti.png?raw=true" alt="social" height="180em">
+    <img src="https://raw.githubusercontent.com/edtech85/edtech85/main/gti.png" alt="social" height="180em">
     
 </div>
 
