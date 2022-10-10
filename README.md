@@ -23,6 +23,8 @@
 
 #### <a href="https://edtech85.github.io/OGFLIX/" target="_blank">Projeto do curso HTML e CSS - Interface Netflix</a>
 
+#### <a href="https://edtech85.github.io/lit-onlearning/index.html" target="_blank">Projeto Clonando o Lit Onlearning com HTML, CSS e JS</a>
+
 ##
 
 <div>
