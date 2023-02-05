@@ -2,14 +2,14 @@
 
 - 👨‍🎓 Bachelor in Business Administration with a degree in Foreign Trade completed in 2013. During the course I did internships in several areas such as logistics, administrative, financial and in some banks.
 
-- 👨‍💻 Currently working as a Technical Support Analyst L2 at LIT - Saint Paul.
+- 👨‍💻 Currently working as a Technical Support Analyst L2 at LIT Onlearning - Saint Paul.
 
 - 🌎 Fluent English with more than 2 years of experience living in New Zealand. Advanced Spanish. Previous employment as a Bilingual Compliance Ombudsman(English and Spanish).
 
 - 💱 Traditional financial market investor since 2015. Cryptocurrencies market investor since 2016.
 
 - 👀 I’m interested in JS, HTML, CSS, React, PHP, SQL and MongoDB.
-- 🌱 I’m currently learning JavaScript and PHP.
+- 🌱 I’m currently learning React and PHP.
 
 ##
 
@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" srcset="" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" srcset="" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" srcset="" />
-    <img align="center" height="30" width="40" src="<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)" />" alt="React" srcset="" />
+    <img align="center" height="30" width="40" src="<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" srcset="" />
 </div>
 
 
