@@ -22,13 +22,13 @@
 
 
 
-### <a href="https://form-organo.vercel.app/" target="_blank">Projeto React Formulário Organo - em desenvolvimento - Version 1.0 of Form-Organo</a>
+### <a href="https://form-organo.vercel.app/" target="_blank">Project React From-Organo - under development - Version 1.0</a>
 
-#### <a href="https://edtech85.github.io/portfolio/" target="_blank">Projeto Portfolio Page - 3 idiomas</a>
+#### <a href="https://edtech85.github.io/portfolio/" target="_blank">Project - Portfolio Page - 3 languages</a>
 
-#### <a href="https://edtech85.github.io/OGFLIX/" target="_blank">Projeto do curso HTML e CSS - Interface Netflix</a>
+#### <a href="https://edtech85.github.io/OGFLIX/" target="_blank">Project HTML and CSS - Netflix Interface</a>
 
-#### <a href="https://edtech85.github.io/lit-onlearning/index.html" target="_blank">Projeto Clonando o Lit Onlearning com HTML, CSS e JS</a>
+#### <a href="https://edtech85.github.io/lit-onlearning/index.html" target="_blank">Project Cloning Lit Onlearning with HTML, CSS and JS</a>
 
 ##
 
