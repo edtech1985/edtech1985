@@ -22,9 +22,9 @@
 
 
 
-### <a href="https://form-organo.vercel.app/" target="_blank">Project React From-Organo - under development - Version 1.0</a>
+### <a href="https://form-organo.vercel.app/" target="_blank">Project React Form-Organo - under development - Version 1.0</a>
 
-#### <a href="https://edtech85.github.io/portfolio/" target="_blank">Project - Portfolio Page - 3 languages</a>
+#### <a href="https://edtech85.github.io/portfolio/" target="_blank">Project Portfolio Page - 3 languages</a>
 
 #### <a href="https://edtech85.github.io/OGFLIX/" target="_blank">Project HTML and CSS - Netflix Interface</a>
 
