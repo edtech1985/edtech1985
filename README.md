@@ -16,27 +16,21 @@
 ##
 
 <div style="display: inline_block"><br>
-
   <img align="center" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
     alt="JavaScript" srcset="" />
-
   <img align="center" height="40" width="50"
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS"
     srcset="" />
-
   <img align="center" height="40" width="50"
     src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS"
     srcset="" />
-
   <img align="center" height="40" width="50"
     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"
     srcset="" />
-
   <img align="center" height="40" width="50"
-    src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server"
+    src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQLServer"
     srcset="" />
-
   <img align="center" height="40" width="50"
     src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"
     srcset="" />
