@@ -13,7 +13,9 @@
 - 💱 I have been investing in the traditional financial market (stock markets) since 2015, and I have also been involved in the crypto market as an investor and enthusiast since 2016.
 
 
-<div style="display: inline_block">
+##
+
+<div style="display: inline_block"><br>
 
   <img align="center" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
