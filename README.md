@@ -8,16 +8,35 @@
 
 - 💱 Traditional financial market investor since 2015. Cryptocurrencies market investor since 2016.
 
-- 👀 I’m interested in JS, HTML, CSS, React, PHP, SQL and MongoDB.
+- 👀 I’m interested in JS, React, PHP, SQL and MongoDB.
 - 🌱 I’m currently learning React and PHP.
 
 ##
-
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" srcset="" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" srcset="" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" srcset="" />
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" srcset="" />
+
+  <img align="center" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    alt="JavaScript" srcset="" />
+
+  <img align="center" height="40" width="50"
+    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS"
+    srcset="" />
+
+  <img align="center" height="40" width="50"
+    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS"
+    srcset="" />
+
+  <img align="center" height="40" width="50"
+    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"
+    srcset="" />
+
+  <img align="center" height="40" width="50"
+    src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server"
+    srcset="" />
+
+  <img align="center" height="40" width="50"
+    src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"
+    srcset="" />
 </div>
 
 
