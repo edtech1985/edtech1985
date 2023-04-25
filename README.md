@@ -38,7 +38,7 @@
 
 ##
 
-#### <a href="https://cap-store-gules.vercel.app/" target="_blank">Cap Store - Version 1.0</a>
+#### <a href="https://cap-store-gules.vercel.app/" target="_blank">React Cap Store</a>
 
 #### <a href="https://form-organo.vercel.app/" target="_blank">Project React Form-Organo - Version 1.0</a>
 
