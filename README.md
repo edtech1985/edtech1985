@@ -58,7 +58,7 @@
 ##
   
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edtech85&layout=compact&langs_count=16&theme=dracula" alt="Stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edtech1985&layout=compact&langs_count=16&theme=dracula" alt="Stats" height="180em" />
 </div>
   
 ##
