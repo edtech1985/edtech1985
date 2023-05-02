@@ -38,6 +38,8 @@
 
 ##
 
+#### <a href="https://ai-medical-office.vercel.app/" target="_blank">React AI Medical Office</a>
+
 #### <a href="https://cap-store-gules.vercel.app/" target="_blank">React Cap Store</a>
 
 #### <a href="https://form-organo.vercel.app/" target="_blank">Project React Form-Organo - Version 1.0</a>
