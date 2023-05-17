@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edson Costa (@edtech85)
+- 👋 Hi, I’m Edson Costa (@edtech1985)
 
 - 👨‍🎓 Bachelor's degree in Business Administration with a focus on Foreign Trade. During my studies, I completed internships in several areas, including logistics, administration, and finance.
 
