@@ -38,7 +38,7 @@
 
 ##
 
-#### <a href="[https://ai-medical-office.vercel.app/](https://psicologa-pabla-amaral.vercel.app/)" target="_blank">React - Psicóloga Pabla Amaral</a>
+#### <a href="https://psicologa-pabla-amaral.vercel.app/" target="_blank">React - Psicóloga Pabla Amaral</a>
 
 #### <a href="https://ai-medical-office.vercel.app/" target="_blank">React - AI Medical Office</a>
 
