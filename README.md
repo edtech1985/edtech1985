@@ -38,17 +38,15 @@
 
 ##
 
+#### <a href="https://edtech1985-portfolio.vercel.app/" target="_blank">Portfolio 3 languages</a>
+
 #### <a href="https://psicologa-pabla-amaral.vercel.app/" target="_blank">React - Psicóloga Pabla Amaral</a>
+
+#### <a href="https://pump-crazy-cookies.vercel.app/" target="_blank">React - Pump Crazy Cookies</a>
 
 #### <a href="https://ai-medical-office.vercel.app/" target="_blank">React - AI Medical Office</a>
 
 #### <a href="https://cap-store-gules.vercel.app/" target="_blank">React - Cap Store</a>
-
-#### <a href="https://form-organo.vercel.app/" target="_blank">Project React - Form-Organo - Version 1.0</a>
-
-#### <a href="https://edtech85.github.io/portfolio/" target="_blank">My first project with HTML, CSS and JS - Portfolio Page - 3 languages</a>
-
-#### <a href="https://edtech85.github.io/OGFLIX/" target="_blank">Project HTML and CSS - Netflix Interface</a>
 
 ##
 
