@@ -38,7 +38,7 @@
 
 ##
 
-#### <a href="https://edtech1985-portfolio.vercel.app/" target="_blank">Portfolio 3 languages</a>
+#### <a href="https://edtech1985-portfolio.vercel.app/" target="_blank">React - Portfolio 3 languages</a>
 
 #### <a href="https://psicologa-pabla-amaral.vercel.app/" target="_blank">React - Psicóloga Pabla Amaral</a>
 
