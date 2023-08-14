@@ -12,6 +12,8 @@
 
 - 💱 I have been investing in the traditional financial market (stock markets) since 2015, and I have also been involved in the crypto market as an investor and enthusiast since 2016.
 
+- Criação de websites. Sites responsivos (mobile, tablet e desktop). www.edtech1985.com.br
+
 
 ##
 
