@@ -44,7 +44,7 @@
 
 #### <a href="https://psicologa-pabla-amaral.vercel.app/" target="_blank">React - Psicóloga Pabla Amaral</a>
 
-#### <a href="https://pump-crazy-cookies.vercel.app/" target="_blank">React - Pump Crazy Cookies</a>
+#### <a href="https://pumpcrazy.com.br/" target="_blank">React - Pump Crazy Cookies</a>
 
 #### <a href="https://ai-medical-office.vercel.app/" target="_blank">React - AI Medical Office</a>
 
