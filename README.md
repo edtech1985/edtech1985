@@ -33,7 +33,7 @@
   <img align="center" height="40" width="50"
     src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript"
     srcset="" />
-    <img style="background: #fff" align="center" height="40" width="50"
+    <img align="center" height="40" width="50"
     src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS"
     srcset="" />
   <img align="center" height="40" width="50"
