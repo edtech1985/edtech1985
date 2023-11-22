@@ -1,18 +1,4 @@
-- 👋 Hi, I’m Edson Costa (@edtech1985)
-
-- 👨‍🎓 Bachelor's degree in Business Administration with a focus on Foreign Trade. During my studies, I completed internships in several areas, including logistics, administration, and finance.
-
-- 🌱 At the end of 2021, I decided to transition from the finance industry to the technology field.
-
-- 👀 Since then, I have been studying Logic, HTML, CSS, JavaScript, and currently React at Alura. Additionally, I started studying Software Engineering in 2023.
-
-- 👨‍💻 I gained valuable experience with SQL and NoSQL databases while working as a Level 2 Technical Support Analyst at Lit Onlearning - Saint Paul Educacional.
-
-- 🌎 During college, I spent two years studying abroad in New Zealand, where I achieved fluency in English. I also have advanced proficiency in Spanish. Prior to my current role, I worked as a Bilingual Compliance Ombudsman (English and Spanish).
-
-- 💱 I have been investing in the traditional financial market (stock markets) since 2015, and I have also been involved in the crypto market as an investor and enthusiast since 2016.
-
-- Criação de websites. Sites responsivos (mobile, tablet e desktop). www.edtech1985.com.br
+ www.edtech1985.com.br/projetos
 
 
 ##
