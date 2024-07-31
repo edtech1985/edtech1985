@@ -38,10 +38,6 @@
 
 #### <a href="https://pumpcrazy.com.br/" target="_blank">React - Pump Crazy Cookies</a>
 
-#### <a href="https://ai-medical-office.vercel.app/" target="_blank">React - AI Medical Office</a>
-
-#### <a href="https://cap-store-gules.vercel.app/" target="_blank">React - Cap Store</a>
-
 ##
 
 <div>
